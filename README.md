@@ -9,4 +9,4 @@ Physics Subjects Involved.
 4. Vena Contracta
 5. Discharge Coefficient
 
-We used an original Mathematica script to read and plot in real time the Arduino data recollected from the sensors.
+We used an original Mathematica script to read and plot in real time the Arduino data recollected from the sensors. In the slides.pdf attatched document you can find a more detailed description of the project, and the analysis of our results (this analysis is also found on the AnalysisReulsts.nb Mathematic netebook.).
